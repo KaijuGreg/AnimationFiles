@@ -1,6 +1,9 @@
 The Rainbow
 red
 blue
+
+and this is another change
+
 green
 orange
 added yellow
